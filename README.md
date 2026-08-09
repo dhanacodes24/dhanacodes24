@@ -4,9 +4,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF.svg?style=for-the-badge&logo=Dynatrace&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 
-[![View Projects](https://img.shields.io/badge/View%20My%20Projects-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanacodes24/dhanacodes24/blob/main/My_Projects.md)
-
-### 🔗 [View All Projects](https://github.com/dhanacodes24/dhanacodes24/blob/main/My_Projects.md)
+### 🔗 [Click here to View All Projects](https://github.com/dhanacodes24/dhanacodes24/blob/main/My_Projects.md)
 A collection of my DevOps, cloud, and automation work — infrastructure, CI/CD pipelines, and deployment projects.
 
 # 📊 GitHub Stats:
