@@ -73,6 +73,9 @@ Hands-on Git workflows — repo setup, commit history, branching & merging, and 
 👉 **[View Repo](https://github.com/dhanacodes24/my-python-project/blob/main/README.md)**
 
 ---
+## SAN certificate validation script 
+
+👉 **[View Repo](https://github.com/dhanacodes24/Certificate_Validation_Script/tree/main)**
 
 <div align="center">
 
