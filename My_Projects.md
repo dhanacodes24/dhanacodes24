@@ -17,7 +17,7 @@ Each project below is self-contained, documented, and includes architecture note
 
 </div>
 
-### 🌍 Project 1. TravelMemory — MERN App Deployment on EC2
+### 🌍 $\Large{\textcolor{#87CEEB}{\textbf{Project 1 }}}$. TravelMemory — MERN App Deployment on EC2
 Deployed a full MERN stack app on EC2 with Nginx reverse proxy, load balancing, and a custom domain via Cloudflare.
 `Node.js` `React` `EC2` `Nginx` `Cloudflare`
 
