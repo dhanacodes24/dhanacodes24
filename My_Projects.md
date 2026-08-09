@@ -67,7 +67,7 @@ Scans all S3 buckets daily and sends an SNS alert if any are public.
 Small Python programs covering input validation and business logic — ATM withdrawal system, bill calculator, and login authentication.
 `Python`
 
-👉 **[View Repo]([https://github.com/dhanacodes24/my-python-project/blob/main/README.md](https://github.com/dhanacodes24/Assessment---Python/tree/main))**
+👉 **[View Repo](https://github.com/dhanacodes24/Assessment---Python/tree/main)**
 
 ---
 
