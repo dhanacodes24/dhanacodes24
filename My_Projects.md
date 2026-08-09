@@ -12,7 +12,7 @@ Each project below is self-contained, documented, and includes architecture note
 
 <div align="center">
 
-# ☁️ AWS Automation Projects
+# ☁️ AWS Automation and other Projects
 
 **Serverless automation with AWS Lambda, Boto3 & EventBridge**
 
@@ -22,9 +22,15 @@ Each project below is self-contained, documented, and includes architecture note
 
 </div>
 
+### 🌍 1. TravelMemory — MERN App Deployment on EC2
+Deployed a full MERN stack app on EC2 with Nginx reverse proxy, load balancing, and a custom domain via Cloudflare.
+`Node.js` `React` `EC2` `Nginx` `Cloudflare`
+
+👉 **[View Repo](https://github.com/dhanacodes24/TravelMemoryAssignment/blob/main/README.md)**
+
 ---
 
-### 🪣 1. S3 Auto-Cleanup
+### 🪣 2. S3 Auto-Cleanup
 Deletes objects older than 30 days from an S3 bucket using a scheduled Lambda.
 `Python` `S3` `Lambda`
 
@@ -32,7 +38,7 @@ Deletes objects older than 30 days from an S3 bucket using a scheduled Lambda.
 
 ---
 
-### 💾 2. EBS Snapshot Backup & Cleanup
+### 💾 3. EBS Snapshot Backup & Cleanup
 Creates weekly EBS snapshots and auto-deletes ones past retention.
 `Python` `EC2` `EventBridge`
 
@@ -41,7 +47,7 @@ Creates weekly EBS snapshots and auto-deletes ones past retention.
 
 ---
 
-### 🏷️ 3. Auto-Tag EC2 on Launch
+### 🏷️ 4. Auto-Tag EC2 on Launch
 Tags new EC2 instances automatically with owner & launch date.
 `Python` `EC2` `CloudTrail`
 
@@ -49,11 +55,27 @@ Tags new EC2 instances automatically with owner & launch date.
 
 ---
 
-### 🛡️ 4. S3 Public Access Auditor
+### 🛡️ 5. S3 Public Access Auditor
 Scans all S3 buckets daily and sends an SNS alert if any are public.
 `Python` `S3` `SNS`
 
 👉 **[View Repo](https://github.com/dhanacodes24/AWS-Automation-with-Lambda-and-Boto3/blob/main/Task6/README.md)**
+
+---
+
+### 🐍 6. Python Programming Exercises
+Small Python programs covering input validation and business logic — ATM withdrawal system, bill calculator, and login authentication.
+`Python`
+
+👉 **[View Repo]([https://github.com/dhanacodes24/my-python-project/blob/main/README.md](https://github.com/dhanacodes24/Assessment---Python/tree/main))**
+
+---
+
+### 🔧 7. Git & GitHub Practice
+Hands-on Git workflows — repo setup, commit history, branching & merging, and fixing mistakes with stash, reset & revert.
+`Git` `GitHub`
+
+👉 **[View Repo](https://github.com/dhanacodes24/my-python-project/blob/main/README.md)**
 
 ---
 
