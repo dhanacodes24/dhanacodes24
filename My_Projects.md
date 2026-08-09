@@ -42,7 +42,7 @@ Creates weekly EBS snapshots and auto-deletes ones past retention.
 
 ---
 
-### 🏷️ $\Large{\textcolor{#87CEEB}{\textbf{  Project 4 - }}}$ # Auto-Tag EC2 on Launch
+### 🏷️ $\Large{\textcolor{#87CEEB}{\textbf{  Project 4 - }}}$  Auto-Tag EC2 on Launch
 Tags new EC2 instances automatically with owner & launch date.
 `Python` `EC2` `CloudTrail`
 
@@ -50,7 +50,7 @@ Tags new EC2 instances automatically with owner & launch date.
 
 ---
 
-### 🛡️  $\Large{\textcolor{#87CEEB}{\textbf{ Project 5 - }}}$ # S3 Public Access Auditor
+### 🛡️  $\Large{\textcolor{#87CEEB}{\textbf{ Project 5 - }}}$  S3 Public Access Auditor
 Scans all S3 buckets daily and sends an SNS alert if any are public.
 `Python` `S3` `SNS`
 
