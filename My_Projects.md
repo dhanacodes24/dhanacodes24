@@ -17,7 +17,7 @@ Each project below is self-contained, documented, and includes architecture note
 
 </div>
 
-### 🌍 $\Large{\textcolor{#87CEEB}{\textbf{Project 1 }}}$. TravelMemory — MERN App Deployment on EC2
+### 🌍 $\Large{\textcolor{#87CEEB}{\textbf{Project 1 - }}}$ TravelMemory — MERN App Deployment on EC2
 Deployed a full MERN stack app on EC2 with Nginx reverse proxy, load balancing, and a custom domain via Cloudflare.
 `Node.js` `React` `EC2` `Nginx` `Cloudflare`
 
@@ -25,7 +25,7 @@ Deployed a full MERN stack app on EC2 with Nginx reverse proxy, load balancing, 
 
 ---
 
-### 🪣  Project 2. S3 Auto-Cleanup
+### 🪣  $\Large{\textcolor{#87CEEB}{\textbf{ Project 2 - }}}$ S3 Auto-Cleanup
 Deletes objects older than 30 days from an S3 bucket using a scheduled Lambda.
 `Python` `S3` `Lambda`
 
@@ -33,7 +33,7 @@ Deletes objects older than 30 days from an S3 bucket using a scheduled Lambda.
 
 ---
 
-### 💾  Project 3. EBS Snapshot Backup & Cleanup
+### 💾  $\Large{\textcolor{#87CEEB}{\textbf{ Project 3 -}}}$ EBS Snapshot Backup & Cleanup
 Creates weekly EBS snapshots and auto-deletes ones past retention.
 `Python` `EC2` `EventBridge`
 
@@ -42,7 +42,7 @@ Creates weekly EBS snapshots and auto-deletes ones past retention.
 
 ---
 
-### 🏷️  Project 4. Auto-Tag EC2 on Launch
+### 🏷️ $\Large{\textcolor{#87CEEB}{\textbf{  Project 4 - }}}$ # Auto-Tag EC2 on Launch
 Tags new EC2 instances automatically with owner & launch date.
 `Python` `EC2` `CloudTrail`
 
@@ -50,7 +50,7 @@ Tags new EC2 instances automatically with owner & launch date.
 
 ---
 
-### 🛡️  Project 5. S3 Public Access Auditor
+### 🛡️  $\Large{\textcolor{#87CEEB}{\textbf{ Project 5 - }}}$ # S3 Public Access Auditor
 Scans all S3 buckets daily and sends an SNS alert if any are public.
 `Python` `S3` `SNS`
 
@@ -58,7 +58,7 @@ Scans all S3 buckets daily and sends an SNS alert if any are public.
 
 ---
 
-### 🐍  Project 6. Python Programming Exercises
+### 🐍 $\Large{\textcolor{#87CEEB}{\textbf{ Project 6 - }}}$ Python Programming Exercises
 Small Python programs covering input validation and business logic — ATM withdrawal system, bill calculator, and login authentication.
 `Python`
 
@@ -66,7 +66,7 @@ Small Python programs covering input validation and business logic — ATM withd
 
 ---
 
-### 🔧 Project 7. Git & GitHub Practice
+### 🔧 $\Large{\textcolor{#87CEEB}{\textbf{ Project 7 - }}}$ Git & GitHub Practice
 Hands-on Git workflows — repo setup, commit history, branching & merging, and fixing mistakes with stash, reset & revert.
 `Git` `GitHub`
 
