@@ -2,7 +2,7 @@
 
 ## 📌 About This Repository
 
-> 👋 Hi! I'm a **Cloud/DevOps enthusiast** building real-world AWS and other automation projects to solve common infrastructure problems — cost control, security auditing, and operational efficiency — using **serverless architecture**.
+> 👋 Hi! I'm Dhanashree a **Cloud/DevOps enthusiast** building real-world AWS and other automation projects to solve common infrastructure problems — cost control, security auditing, and operational efficiency — using **serverless architecture**.
 
 Each project below is self-contained, documented, and includes architecture notes, IAM policies, and a discussion of when to use Lambda vs. native AWS services. Click into any project folder for full code, setup steps, and screenshots.
 
