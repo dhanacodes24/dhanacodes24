@@ -14,15 +14,10 @@ Each project below is self-contained, documented, and includes architecture note
 
 # ☁️ AWS Automation and other Projects
 
-**Serverless automation with AWS Lambda, Boto3 & EventBridge**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 </div>
 
-### 🌍 1. TravelMemory — MERN App Deployment on EC2
+### 🌍 Project 1. TravelMemory — MERN App Deployment on EC2
 Deployed a full MERN stack app on EC2 with Nginx reverse proxy, load balancing, and a custom domain via Cloudflare.
 `Node.js` `React` `EC2` `Nginx` `Cloudflare`
 
@@ -30,7 +25,7 @@ Deployed a full MERN stack app on EC2 with Nginx reverse proxy, load balancing, 
 
 ---
 
-### 🪣 2. S3 Auto-Cleanup
+### 🪣  Project 2. S3 Auto-Cleanup
 Deletes objects older than 30 days from an S3 bucket using a scheduled Lambda.
 `Python` `S3` `Lambda`
 
@@ -38,7 +33,7 @@ Deletes objects older than 30 days from an S3 bucket using a scheduled Lambda.
 
 ---
 
-### 💾 3. EBS Snapshot Backup & Cleanup
+### 💾  Project 3. EBS Snapshot Backup & Cleanup
 Creates weekly EBS snapshots and auto-deletes ones past retention.
 `Python` `EC2` `EventBridge`
 
@@ -47,7 +42,7 @@ Creates weekly EBS snapshots and auto-deletes ones past retention.
 
 ---
 
-### 🏷️ 4. Auto-Tag EC2 on Launch
+### 🏷️  Project 4. Auto-Tag EC2 on Launch
 Tags new EC2 instances automatically with owner & launch date.
 `Python` `EC2` `CloudTrail`
 
@@ -55,7 +50,7 @@ Tags new EC2 instances automatically with owner & launch date.
 
 ---
 
-### 🛡️ 5. S3 Public Access Auditor
+### 🛡️  Project 5. S3 Public Access Auditor
 Scans all S3 buckets daily and sends an SNS alert if any are public.
 `Python` `S3` `SNS`
 
@@ -63,7 +58,7 @@ Scans all S3 buckets daily and sends an SNS alert if any are public.
 
 ---
 
-### 🐍 6. Python Programming Exercises
+### 🐍  Project 6. Python Programming Exercises
 Small Python programs covering input validation and business logic — ATM withdrawal system, bill calculator, and login authentication.
 `Python`
 
@@ -71,7 +66,7 @@ Small Python programs covering input validation and business logic — ATM withd
 
 ---
 
-### 🔧 7. Git & GitHub Practice
+### 🔧 Project 7. Git & GitHub Practice
 Hands-on Git workflows — repo setup, commit history, branching & merging, and fixing mistakes with stash, reset & revert.
 `Git` `GitHub`
 
