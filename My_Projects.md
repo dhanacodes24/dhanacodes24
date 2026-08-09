@@ -12,7 +12,7 @@ Each project below is self-contained, documented, and includes architecture note
 
 <div align="center">
 
-# ☁️ AWS Automation and other Projects
+# ☁️ AWS  and other Automation Projects
 
 
 </div>
