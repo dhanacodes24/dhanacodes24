@@ -5,7 +5,12 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&width=100%)
 
-### 🔗 [Click here to View All Projects](https://github.com/dhanacodes24/dhanacodes24/blob/main/My_Projects.md)
+
+<img width="150" height="75" alt="my_projects_animated_small" src="https://github.com/user-attachments/assets/ce04c2f6-c2be-4be9-a3e6-eb3d092e8118" />
+
+
+## 🔗 [👉 Click here to View My All Projects](https://github.com/dhanacodes24/dhanacodes24/blob/main/My_Projects.md) 
+
 A collection of my DevOps, cloud, and automation work — infrastructure, CI/CD pipelines, and deployment projects.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0B5FFF,100:00D4FF&height=3&width=100%)
