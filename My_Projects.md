@@ -21,8 +21,8 @@ Each project below is self-contained, documented, and includes architecture note
 
 ### 🚀 $\Large{\textcolor{#87CEEB}{\textbf{Project 9 - }}}$  Flask + MongoDB CI/CD Pipeline
 every push to main is automatically tested, containerized, tagged with its Git commit SHA, pushed to a private ECR repository, deployed onto a live EC2 instance by replacing the running container, verified with a real /health check, and reported by a distinct success or failure email — with zero manual steps in between.
-
 `Flask` · `MongoDB` · `Docker` · `Jenkins` · `Amazon ECR` · `Amazon EC2`
+
 👉 **[View Repo](https://github.com/dhanacodes24/flask_Practice/blob/main/README.md)**
 
 
